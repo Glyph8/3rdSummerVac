@@ -8,3 +8,5 @@ git을 시작하고 싶은 폴더에서 우클릭, git bash로 바로 시작 가
 git bash에서 복붙은 ctrl + insert, shift + insert
 
 git clone [주소] . 처럼 뒤에 . 을 붙이면 리포지토리명으로 된 폴더 없이 해당 폴더로 바로 가져온다.
+
+너구리 glyph88
